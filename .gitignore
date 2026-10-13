@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor & workspace files
+*.swp
+*~
+.idea/
+.vscode/
+
+# Local credentials & state
+.ffv/
+.foxyvpn/
+state.json
+tokens.json
